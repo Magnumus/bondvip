@@ -1,0 +1,23 @@
+@media only screen and (max-width: 768px) {
+	main {
+		padding-left: 112px;
+	}
+}
+@media only screen and (max-width: 425px) {
+	main {
+    background-image: url(../images/mobileBg.png);
+    padding-left: 0px;
+	align-items: center;
+	justify-content:center;
+	}
+	form {
+		height: 362px;
+    }
+	.enter_p {
+		line-height: 38px;
+    }
+	.enter {
+		height: 40px;
+	}
+	
+}
